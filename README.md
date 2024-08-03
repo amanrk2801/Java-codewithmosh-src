@@ -131,3 +131,157 @@
 ### Course Wrap Up
 
 ### Thank You
+
+#########################################
+# Java Programming Course
+
+## Getting Started
+
+### Introduction
+
+### Programming Paradigms
+
+### Benefits of Object-oriented Programming
+
+### Course Structure
+
+### Source Code
+
+### Follow Me Around
+
+## Classes
+
+### Introduction
+
+### Classes and Objects
+
+### Creating Classes
+
+### Creating Objects
+
+### Memory Allocation
+
+### Procedural Programming
+
+### Encapsulation
+
+### Getters and Setters - Title
+
+### Abstraction
+
+### Coupling
+
+### Reducing Coupling
+
+### Constructors
+
+### Method Overloading
+
+### Constructor Overloading
+
+### Static Members
+
+### Classes Quiz
+
+### Summary
+
+## Refactoring Towards an Object-oriented Design
+
+### Introduction
+
+### The Problem
+
+### What Classes Do We Need?
+
+### Extracting the Console Class
+
+### Overloading Methods
+
+### Extracting the MortgageReport Class
+
+### Extracting the MortgageCalculator Class
+
+### Moving Away from Static Members
+
+### Moving Static Fields
+
+### Extracting Duplicate Logic
+
+### Extracting getRemainingBalances - Title
+
+### One Last Touch
+
+### A Quick Note
+
+## Inheritance
+
+### Introduction
+
+### Inheritance
+
+### The Object Class
+
+### Constructors and Inheritance
+
+### Access Modifiers
+
+### Overriding Methods
+
+### Upcasting and Downcasting
+
+### Comparing Objects
+
+### Polymorphism
+
+### Abstract Classes and Methods
+
+### Final Classes and Methods
+
+### Deep Inheritance Hierarchies
+
+### Multiple Inheritance
+
+### Inheritance Quiz
+
+### Summary
+
+## Interfaces
+
+### Introduction
+
+### What are Interfaces
+
+### Tightly-coupled Code
+
+### Creating an Interface
+
+### Dependency Injection
+
+### Constructor Injection
+
+### Setter Injection
+
+### Method Injection
+
+### Interface Segregation Principle
+
+### Project: MyTube Video Platform
+
+### Solution
+
+### Fields
+
+### Static Methods
+
+### Private Methods
+
+### Interfaces and Abstract Classes
+
+### When to Use Interfaces
+
+### Interfaces Quiz
+
+### Course Wrap Up
+
+### Thank You
+####################################################
