@@ -1,6 +1,6 @@
 # Java Programming Course
 
-## Getting Started
+## Part 1: Getting Started
 
 ### Setting Up the Development Environment
 
@@ -20,7 +20,7 @@
 
 ### Learning Paths
 
-## Types
+## Part 2: Types
 
 ### Introduction
 
@@ -60,7 +60,7 @@
 
 ### Summary
 
-## Control Flow
+## Part 3: Control Flow
 
 ### Introduction
 
@@ -94,7 +94,7 @@
 
 ### Summary
 
-## Clean Coding
+## Part 4: Clean Coding
 
 ### Introduction
 
@@ -116,7 +116,7 @@
 
 ### Summary
 
-## Debugging and Deploying Applications
+## Part 5: Debugging and Deploying Applications
 
 ### Introduction
 
@@ -132,24 +132,7 @@
 
 ### Thank You
 
-#########################################
-# Java Programming Course
-
-## Getting Started
-
-### Introduction
-
-### Programming Paradigms
-
-### Benefits of Object-oriented Programming
-
-### Course Structure
-
-### Source Code
-
-### Follow Me Around
-
-## Classes
+## Part 6: Classes
 
 ### Introduction
 
@@ -185,7 +168,7 @@
 
 ### Summary
 
-## Refactoring Towards an Object-oriented Design
+## Part 7: Refactoring Towards an Object-oriented Design
 
 ### Introduction
 
@@ -213,7 +196,7 @@
 
 ### A Quick Note
 
-## Inheritance
+## Part 8: Inheritance
 
 ### Introduction
 
@@ -245,7 +228,7 @@
 
 ### Summary
 
-## Interfaces
+## Part 9: Interfaces
 
 ### Introduction
 
@@ -284,20 +267,8 @@
 ### Course Wrap Up
 
 ### Thank You
-####################################################
-# Java Programming Course
 
-## Getting Started
-
-### Introduction
-
-### Source Code
-
-### Follow Me Around
-
-### Learning Paths
-
-## Exceptions
+## Part 10: Exceptions
 
 ### Introduction
 
@@ -325,7 +296,7 @@
 
 ### Summary
 
-## Generics
+## Part 11: Generics
 
 ### Introduction
 
@@ -353,7 +324,7 @@
 
 ### Summary
 
-## Collections
+## Part 12: Collections
 
 ### Introduction
 
@@ -383,7 +354,7 @@
 
 ### Summary
 
-## Lambda Expressions and Functional Interfaces
+## Part 13: Lambda Expressions and Functional Interfaces
 
 ### Introduction
 
@@ -419,7 +390,7 @@
 
 ### Summary
 
-## Streams
+## Part 14: Streams
 
 ### Introduction
 
@@ -453,7 +424,7 @@
 
 ### Summary
 
-## Concurrency and Multi-threading
+## Part 15: Concurrency and Multi-threading
 
 ### Introduction
 
@@ -493,7 +464,7 @@
 
 ### Summary
 
-## The Executive Framework
+## Part 16: The Executive Framework
 
 ### Introduction
 
@@ -534,4 +505,3 @@
 ### Solution: Getting Many Quotes
 
 ### Solution: Random Delays
-
